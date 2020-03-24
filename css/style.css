@@ -66,6 +66,7 @@ img:hover {
 }
 
 .large {
-  width: 90%;
-  height: 90%;
+  display: flex;
+  width: 3fr;
+  height: 3fr;
 }
